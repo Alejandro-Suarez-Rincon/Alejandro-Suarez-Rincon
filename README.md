@@ -12,10 +12,10 @@ I'm a systems engineering student at JDC.
   </a>
 </p>
 
-## Stats 📈
+<!--## Stats 📈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-Suarez-Rincon&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats">
-</p>
+</p>-->
 
 ## Find me on 📌
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/alejandro_suarez203/)
