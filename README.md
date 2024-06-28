@@ -8,7 +8,7 @@ I'm a systems engineering student at JDC.
 ## Languajes and tools. 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,go,javascript,html,css,astro" />
+    <img src="https://skillicons.dev/icons?i=java,python,go,astro,next" />
   </a>
 </p>
 
