@@ -1,5 +1,5 @@
 # Hi there, I'm Alejandro Suarez Rincon 👋
-I'm a systems engineering student at JDC.
+I'm a systems engineering.
 
 ## More about me.
 - I'm an autodidact.
